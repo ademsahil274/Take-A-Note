@@ -23,3 +23,8 @@ THEN that note appears in the right-hand column <br>
 WHEN I click on the Write icon in the navigation at the top of the page <br>
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column <br>
 
+## Mock-Up
+The following images show the web application's apperance and functionality:
+![Alt text](Assets/Note%20Taker.PNG)
+
+![Alt text](Assets/Note%20Taker%202.PNG)
